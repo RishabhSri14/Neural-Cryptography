@@ -1,0 +1,8 @@
+batch_size: 512
+Data_bits: 16
+Key_bits: 16
+Cipher_bits: 16
+epochs: 1000
+lr: 0.0001
+weight_decay: 0.001
+base_model: LSTM
